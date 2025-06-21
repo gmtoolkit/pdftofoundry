@@ -1,3 +1,7 @@
+## 6.0.0
+ - Forked to github (https://github.com/gmtoolkit/pdftofoundry)
+ - Updated for V13
+
 ## 5.0.0
 
 - Update to v12
