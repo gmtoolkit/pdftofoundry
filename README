@@ -1,4 +1,6 @@
-#Forked from https://github.com/fryguy1013/pdftofoundry
+Updated for V13
+# Forked from https://github.com/fryguy1013/pdftofoundry commit 382c585a4301ff41fab7cd18d985c7804a237b43 under MIT License
+
 This is module that lets you take pdfs that contain certain adventures (listed in the application),
 and export them to a format that is compatible with Foundry Virtual Tabletop for the Pathfinder
 2nd edition system.
